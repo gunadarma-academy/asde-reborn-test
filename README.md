@@ -3,3 +3,8 @@
 [![Join the chat at https://gitter.im/gunadarma-academy/asde-reborn-test](https://badges.gitter.im/gunadarma-academy/asde-reborn-test.svg)](https://gitter.im/gunadarma-academy/asde-reborn-test?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Testing Plan for P2C Project by reborn team in ASDE course
+
+Dokumentasi testing, yaitu:
++ [Master Test Plan](https://github.com/gunadarma-academy/asde-reborn-test/blob/master/Master%20Test%20Plan%20P2C.pdf)
++ [Test Skenarion](https://github.com/gunadarma-academy/asde-reborn-test/blob/master/Skenario%20Test%20P2C.pdf)
++ [Hasil Pengujian](https://github.com/gunadarma-academy/asde-reborn/)
