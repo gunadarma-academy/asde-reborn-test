@@ -8,3 +8,4 @@ Dokumentasi testing, yaitu:
 + [Master Test Plan](https://github.com/gunadarma-academy/asde-reborn-test/blob/master/master-test-plan/Master%20Test%20Plan%20P2C%20v1.1.pdf)
 + [Test Skenario](https://github.com/gunadarma-academy/asde-reborn-test/blob/master/SkenarioTestP2C.pdf)
 + [Hasil Pengujian](https://github.com/gunadarma-academy/asde-reborn-test/blob/master/TestReportP2C.pdf)
++ [File Presentasi](https://docs.google.com/presentation/d/1553t1d2OpFMD7TyF2frE-4Q2jsaEIkw-rnn2vC9faeI/edit?usp=sharing)
